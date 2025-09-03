@@ -1,5 +1,5 @@
 # EX 32 C program to display Hardware details such as price, product name and price using structure.
-## DATE:
+## DATE:03/09/2025
 ## AIM:
 To write a C program to display Hardware details such as price, product name and price using structure.
 
